@@ -1,2 +1,2 @@
 # dice-roll-game
-Website game that rolls dice
+Online game that rolls dice
