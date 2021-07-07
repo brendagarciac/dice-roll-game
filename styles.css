@@ -1,0 +1,69 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  padding: 0 20px;
+}
+
+body {
+  background-color: #3797A4;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 5rem;
+  color: #FCF876;
+}
+
+p {
+  font-size: 2rem;
+  color: #FCF876;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 2rem;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+/* Roll Button */
+#button{
+    padding: 6% 0 0 0;
+}
+.btn {
+	box-shadow: 3px 4px 0px 0px #d6cf51;
+	background:linear-gradient(to bottom, #fcf876 5%, #e3da56 100%);
+	background-color:#fcf876;
+	border-radius:5px;
+	border:1px solid #d6cf51;
+	display:inline-block;
+	cursor:pointer;
+	padding:12px 44px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 2px 0 #232931;
+  font-size: 3rem;
+  color: #3797A4;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #e3da56 5%, #fcf876 100%);
+	background-color:#e3da56;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
